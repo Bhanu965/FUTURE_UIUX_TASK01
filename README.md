@@ -31,3 +31,6 @@ Color Palette: ( #000000,#FFFFFF,#FF6619,#E9E9E9 ).
 
 Iconography: Minimalist line icons to keep the UI clean.
 
+## 🔗 Project Links
+**Interactive Prototype** | [Click to Play the App]((https://www.figma.com/proto/PLKowSWkPZKNmpNH5YTyrj/WEBSITE?node-id=636-291&t=oYa2z9LCEmUVVIL9-1)) |
+| **Figma Design File** | [View Design Layers & Assets]((https://www.figma.com/design/PLKowSWkPZKNmpNH5YTyrj/WEBSITE?node-id=636-291&t=oYa2z9LCEmUVVIL9-1)) |
