@@ -27,7 +27,7 @@ Cart & Checkout(Payment and Billing)
 
 2. Visual Identity
 Typography: ( Inter for readebility and Inter medium for the headings )
-Color Palette: ( #000000 ,#FFFFFF,#FF6619,#E9E9E9 ).
+Color Palette: ( #000000,#FFFFFF,#FF6619,#E9E9E9 ).
 
 Iconography: Minimalist line icons to keep the UI clean.
 
